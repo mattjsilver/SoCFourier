@@ -23,6 +23,5 @@ single year. The amplitude (distance between maximum and minimum)
 and phase (time of year of methylation maximum/minimum) are determined by
 the estimated coefficients for each Fourier term.
 
-The significance of any 'seasonal' (date of conception) association is deter-
-mined by likelihood ratio test (LRT) comparing the full model with both
+The significance of any 'seasonal' (date of conception) association is determined by likelihood ratio test (LRT) comparing the full model with both
 Fourier terms against a nested, covariates-only model.
